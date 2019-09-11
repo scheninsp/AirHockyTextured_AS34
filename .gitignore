@@ -21,3 +21,11 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+
+# Android build files
+/app/build
+/.gradle
+/.idea
+/gradlew
+/gradlew.bat
+/import-summary.txt
